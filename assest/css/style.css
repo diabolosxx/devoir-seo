@@ -9,3 +9,44 @@ h2{
     font-family: raleway;
      color: white;
 }
+h3{
+    font-family: raleway;
+    color:  #17abb3;
+}
+p{
+    font-family: raleway;
+}
+.mis-en-page{
+    display: inline-flex;
+}
+.section1{
+    background-color: #eef1f2;
+    width: 33%;
+    padding: 30px;
+}
+.section2{
+    background-color: #ffffff;
+    width: 67%;
+    padding: 30px;
+}
+strong{
+    font-family: raleway;
+}
+body{
+    width: 1160px;
+    margin: auto;
+    background-color: #f5f5f5;
+}
+span{
+    font-size: 22px;
+    color: #17abb3;
+}
+.notation{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+ul{
+    list-style-type: square;
+    color: #17abb3;
+}
+li:first-line {color:rgb(4, 4, 4)}
