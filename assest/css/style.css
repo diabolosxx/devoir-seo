@@ -38,8 +38,9 @@ body{
     background-color: #f5f5f5;
 }
 span{
-    font-size: 22px;
+    font-size: 20px;
     color: #17abb3;
+    text-align: end;
 }
 .notation{
     display: grid;
