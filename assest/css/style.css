@@ -50,3 +50,18 @@ ul{
     color: #17abb3;
 }
 li:first-line {color:rgb(4, 4, 4)}
+footer{
+    background-color: #17abb3;
+    text-align: center;
+    padding: 10px;
+    color: #ffffff;
+  
+
+}
+.pier_de_page{
+    display: flex;
+    column-gap: 20px;
+    justify-content: center;
+    margin-bottom: 10px;
+
+}
