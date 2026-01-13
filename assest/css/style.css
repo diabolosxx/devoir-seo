@@ -54,8 +54,6 @@ footer{
     text-align: center;
     padding: 10px;
     color: #ffffff;
-  
-
 }
 .pier_de_page{
     display: flex;
@@ -76,4 +74,16 @@ footer{
 .ma_class3{
     color: black;
     font-size: 14px;
+}
+.survol{
+    display: flex;
+    flex-direction: row;
+    padding-right: 10px;
+    justify-content: space-between;
+    justify-items: stretch;
+}
+.survol:hover {
+ border-left: 10px solid #17abb3;
+background-color: #e3e3e3;
+   
 }
